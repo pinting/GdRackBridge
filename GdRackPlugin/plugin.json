@@ -1,0 +1,23 @@
+{
+  "slug": "GdRackPlugin",
+  "name": "GdRackPlugin",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "GdRackPlugin",
+  "author": "",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "GdRackModule",
+      "name": "GdRackModule",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
